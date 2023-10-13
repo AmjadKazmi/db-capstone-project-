@@ -1,1 +1,2 @@
-setting up repository for project
+
+Sample project related CourseEra Data Engineering Course by META
